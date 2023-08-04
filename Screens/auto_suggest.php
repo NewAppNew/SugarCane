@@ -1,5 +1,5 @@
 <?php
-
+ echo "hiii"
 class autoSuggest
 {
     public $db;
